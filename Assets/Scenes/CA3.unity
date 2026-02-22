@@ -2606,7 +2606,7 @@ MonoBehaviour:
   errorText: {fileID: 1318881631}
   correctUsername: tyt
   correctPassword: 1234
-  nextSceneName: MyScene
+  nextSceneName: CA4
 --- !u!4 &1466440809 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 1717954561962503726, guid: f6336ac4ac8b4d34bc5072418cdc62a0, type: 3}
